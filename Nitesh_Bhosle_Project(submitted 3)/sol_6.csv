@@ -1,0 +1,6 @@
+profile_id,rent,move_in_date,house_type,beds_vacant,description,city
+2,11000,6/5/2015,Apartment,1,"No.44,Ground floor,20th cross,Sector 2 HSR Layout,Bangalore.",bangalore
+7,6500,11/20/2015,Apartment,1,"# 595/1, 1st Floor,1st A main, Domlur Layout",bangalore
+6,10200,12/25/2015,Apartment,1,"Flat No-202, Apoorva Apartment No-296 Vyalikaval House Building Cooperative Society Ltd Nagavara",Delhi
+10,7500,6/20/2015,Independent,1,"302,#473 VAK Residency, B-Block, AECS Layout Kundalahalli,",Delhi
+19,7500,9/26/2015,Independent,2,"Majeera Diamond Towers,malad-west",Pune
